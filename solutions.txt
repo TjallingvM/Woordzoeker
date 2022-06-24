@@ -1,0 +1,159 @@
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.011233612599999984
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.007574054399999998
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.008890703099999998
+
+Puzzle: Woorden5x5
+Avg time taken for 1000executions without AI: 0.0001374005999999999
+
+Puzzle: Woorden5x5
+Avg time taken for 1000executions without AI: 0.00017187010000000035
+
+Puzzle: Woorden5x5
+Avg time taken for 1000executions without AI: 0.0003362913
+
+Puzzle: Woorden5x5
+Avg time taken for 1000executions without AI: 0.0001179091999999997
+
+Puzzle: Woorden5x5
+Avg time taken for 1000executions without AI: 0.00014539289999999987
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.001985160200000001
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0015938380000000015
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0015178725999999982
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0013583000000000067
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0002477000000000035
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0002524000000000137
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0002535999999999927
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0003008000000000177
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00030699999999998784
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0002723999999999782
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014030000000000986
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00026339999999999697
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0006613999999999787
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014340000000000186
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00015149999999999886
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014259999999999273
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00013909999999998923
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0002469999999999972
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00023989999999998735
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0002470000000000111
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014779999999997573
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014139999999998598
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014039999999999886
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00012170000000000236
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00034009999999999596
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0001527000000000056
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014419999999998323
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00026099999999999735
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0003162999999999916
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014000000000000123
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00014959999999999973
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0001411000000000051
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0002590000000000092
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0003998999999999947
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0005998999999999866
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00010880000000000611
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.00025139999999999885
+
+Puzzle: Woorden2
+Avg time taken for 1000executions without AI: 0.0003938999999999887
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.006360400000000002
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.006285774700000005
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.006431950799999996
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.006171897500000013
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.006143695800000007
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.005318542599999987
+
+Puzzle: Woorden
+Avg time taken for 1000executions without AI: 0.005575923500000005
+
